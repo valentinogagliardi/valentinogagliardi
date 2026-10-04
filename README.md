@@ -61,3 +61,4 @@ You can reach me through:
 - 💼 <a rel="me" href="https://www.linkedin.com/in/valentinogagliardi/">linkedin.com/in/valentinogagliardi/</a>
 - 🐦 <a rel="me" href="https://x.com/gagliardi_vale">x.com/gagliardi_vale</a>
 - 🦋 <a rel="me" href="https://bsky.app/profile/valentinog.com">bsky.app/profile/valentinog.com</a>
+- 🧑‍💻 <a rel="me" href="https://dev.to/valentinogagliardi">dev.to/valentinogagliardi</a>
